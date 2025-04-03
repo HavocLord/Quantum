@@ -3,7 +3,7 @@ import cmath
 import random
 import math
 import time
-import plotly.graph_objects # Using Plotly for better web visualization
+import plotly.graph_objects as go # Using Plotly for better web visualization
 
 # --- Quantum Core Logic (Mostly unchanged) ---
 
